@@ -29,6 +29,7 @@ If you've done [Advent of Code](https://adventofcode.com/) before, the layout of
 </summary>
 
 <details>
+
 Hey there, it's your first day at your super fabulous job where you...sort and arrange boxes. It's not much, but in this economy? You'll take anything you got.
 
 Upon arriving at the office, you see them all just scattered willy-nilly all over the place and your first task is to find, and implement a more efficient way to arrange them all relative to each other.
@@ -56,6 +57,7 @@ The list should have the following methods:
 Make any appropriate classes/structures/objects as you need, and try to use error-handling techniques that are best for your language.
 
 If using a non-garbage collected language, ensure you implement proper memory management for your objects.
+
 </details>
 
 <summary>
@@ -63,11 +65,13 @@ If using a non-garbage collected language, ensure you implement proper memory ma
 </summary>
 
 <details>
+
 Your boss is happy with your work so far, but wants a few more changes to be made:
 
 - Currently you can't go "back" to a box before you on the shelves, because boxes only store information about what comes immediately after them. Fix this by allowing boxes to store info. about what comes "before" them too.
 - Add methods that allow you to delete boxes at a position, and insert a box at a specific place in the order — with errors handled appropriately.
 - Make a function that can "prettily" print the contents of the entire list (or specific boxes) to standard output — preferably by implementing `ToString()` or its equivalent in your language.
+
 </details>
 
 Good luck!
