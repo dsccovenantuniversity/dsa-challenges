@@ -25,7 +25,7 @@ If you've done [Advent of Code](https://adventofcode.com/) before, the layout of
   This will be where your submissions live.
 
 <summary>
-## Part 1
+<h2>Part 1</h2>
 </summary>
 
 <details>
@@ -59,7 +59,7 @@ If using a non-garbage collected language, ensure you implement proper memory ma
 </details>
 
 <summary>
-## Part 2
+<h2>Part 2</h2>
 </summary>
 
 <details>
