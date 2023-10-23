@@ -9,16 +9,14 @@ If you've done [Advent of Code](https://adventofcode.com/) before, the layout of
 - Once you're done with the first, make a copy your part one code and then work on part two with the copy.
 - Make a git repository on your platform of choice (GitHub, Bitbucket, your home server etc.) and let it look somewhat like this:
 
-  ```sh
+  ```text
   you/gdsc-dsa-stuff
-  |
-  |- week-one
-  |  |
-  |  |- part-one.c
-  |  |- part-two.c
-  |
-  |- week-two
-  |
+  │
+  ├─ week-one
+  │  ├─ part-one.c
+  │  └─ part-two.c
+  ├─ week-two
+  │
   ...
   ```
   
